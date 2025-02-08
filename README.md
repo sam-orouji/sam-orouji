@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm a Computer Engineering Student at Georgia Institute of Technology
 <br>
-I'm currently learning Swift and MERN stack
+I'm currently learning Swift and MERN stack <br>
 Reach me at sorouji3@gatech.edu
 
 
