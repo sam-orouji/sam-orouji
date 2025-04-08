@@ -7,7 +7,7 @@
 🔭 My current tech stack: Java, Python, Swift, Node.js, Express.js, Javascript, HTMl, CSS, MongoDB, Firebase, Pandas, Scikit Learn
 
 
-🌱 Outside of work and school I enjoy playing basketball, guitar 🎸, lifting and exploring nature/traveling
+🌱 Outside of work and school I enjoy playing Basketball, Guitar 🎸, Lifting and exploring nature/traveling
 
 
 📫 Reach me at sorouji3@gatech.edu
