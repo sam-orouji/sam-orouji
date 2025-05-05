@@ -4,7 +4,7 @@
 💾 I'm currently studying Cybersecurity and Distributed System & Software Design  
 
 
-🔭 My current tech stack: Java, Python, Swift, Node.js, Express.js, Javascript, HTMl, CSS, MongoDB, Firebase, Pandas, Scikit Learn
+🔭 My current tech stack: Java, Python, Swift, Node.js, Express.js, Javascript, HTML, CSS, MongoDB, Firebase, Pandas, Scikit Learn
 
 
 🌱 Outside of work and school I enjoy playing Basketball, Guitar 🎸, Lifting and exploring nature/traveling
