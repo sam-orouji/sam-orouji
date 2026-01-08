@@ -1,14 +1,11 @@
 ## Hi there 👋
 🐝 I'm Sam Orouji, a Computer Engineering Student at Georgia Institute of Technology
 
-💾 I'm currently studying Cybersecurity and Distributed System & Software Design  
+💾 I'm currently studying Distributed System & Software Design and Robotics  
 
+🔭 My tech stack: Java, Python, Swift, Next.js, tailwind.css, Node.js, MongoDB, Firebase, Pandas, Scikit Learn
 
-🔭 My current tech stack: Java, Python, Swift, Node.js, Express.js, Javascript, HTML, CSS, MongoDB, Firebase, Pandas, Scikit Learn
-
-
-🌱 Outside of work and school I enjoy playing Basketball, Guitar 🎸, Lifting and exploring nature/traveling
-
+🌱 I enjoy playing Basketball, soccer, running, lifting, traveling and grilling
 
 📫 Reach me at sorouji3@gatech.edu
 
