@@ -5,7 +5,7 @@
 
 🔭 My tech stack: Java, Python, Swift, Next.js, tailwind.css, Node.js, MongoDB, Firebase, Pandas, Scikit Learn
 
-🌱 I enjoy playing Basketball, soccer, running, lifting, traveling and grilling
+🌱 I enjoy running, basketball, traveling and outdoors
 
 📫 Reach me at sorouji3@gatech.edu
 
